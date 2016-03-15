@@ -87,7 +87,7 @@
     cd  = checkout -b
     cp  = cherry-pick --no-commit # һommit     coo = reset HEAD -- #  local repos 
 
-                                                                                       br  = branch
+    br  = branch
     bmv = branch -m
     bMv = branch -M
     brm = branch -d
